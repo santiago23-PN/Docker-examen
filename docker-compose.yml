@@ -17,10 +17,10 @@ services:
     image: mariadb:10.11
     container_name: clouddb
     environment:
-      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}
-      MYSQL_DATABASE: ${MYSQL_DATABASE}
-      MYSQL_USER: ${MYSQL_USER}
-      MYSQL_PASSWORD: ${MYSQL_PASSWORD}
+      MYSQL_ROOT_PASSWORD: mysql-rootpass
+      MYSQL_DATABASE: moodlelms
+      MYSQL_USER: moodle-admin
+      MYSQL_PASSWORD: moodle-dbpass
     volumes:
       - clouddbdata:/var/lib/mysql
     networks:
@@ -33,10 +33,10 @@ services:
     ports:
       - "8081:80"
     environment:
-      PMA_HOST: clouddb
+      PMA_HOST: moodledb
       PMA_PORT: 3306
-      PMA_USER: ${MYSQL_USER}
-      PMA_PASSWORD: ${MYSQL_PASSWORD}
+      PMA_USER: moodle-admin
+      PMA_PASSWORD: moodle-dbpass
     depends_on:
       - moodledb
     networks:
