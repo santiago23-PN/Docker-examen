@@ -141,15 +141,15 @@ Al finalizar, verás la confirmación de que el curso se creó correctamente en 
 ### Creación de usuarios
 Para registrar un nuevo usuario, ve a la pestaña **“Administración del sitio”**, luego a la opción **“Usuarios”** y haz clic en **“Añadir un nuevo usuario”**.
 
-![Administración de usuarios](imagenes/figura-10.png)
+![Administración de usuarios](imagenes/imagen5.png)
 
 Completa el formulario con la información requerida y selecciona **“Crear usuario”**.
 
-![Formulario de usuario](imagenes/figura-11.png)
+![Formulario de usuario](imagenes/imagen6.png)
 
 Podrás visualizar la lista de todos los usuarios registrados en la plataforma.
 
-![Lista de usuarios](imagenes/figura-12.png)
+![Lista de usuarios](imagenes/imagen7.png)
 
 ### Asignación de roles e inscripción
 Para inscribir usuarios y asignarles roles (estudiante, profesor, etc.):
