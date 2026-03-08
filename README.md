@@ -85,6 +85,14 @@ Iniciar los contenedores (si ya fueron creados):
 ```bash
 docker compose start
 ```
+## 🌐 Acceso a la plataforma
+
+Cuando ambos contenedores estén activos, abre en tu navegador:
+
+* **Moodle:** `http://localhost:80` (o simplemente `http://localhost`)
+* **phpMyAdmin:** `http://localhost:8081`
+
+---
 
 ## 🛠️ 3. Configuración de la Base de Datos en Moodle
 Cuando el asistente de Moodle te solicite los "Ajustes de base de datos", utiliza los siguientes valores exactos:
@@ -94,3 +102,12 @@ Cuando el asistente de Moodle te solicite los "Ajustes de base de datos", utiliz
 * **Usuario de la base de datos:** `moodle-admin`
 * **Contraseña de la base de datos:** `moodle-dbpass`
 * **Prefijo de tablas:** `mdl_`
+---
+
+## 🎓 4. Cuenta de Administrador
+* Usuario: **admin**
+* Contraseña: **S45yuk#56**
+---
+
+
+
