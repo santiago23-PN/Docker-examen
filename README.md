@@ -91,6 +91,7 @@ Cuando ambos contenedores estén activos, abre en tu navegador:
 
 * **Moodle:** `http://localhost:80` (o simplemente `http://localhost`)
 * **phpMyAdmin:** `http://localhost:8081`
+* o http://<IP_del_servidor>
 
 ---
 
