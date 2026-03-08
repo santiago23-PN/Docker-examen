@@ -157,9 +157,9 @@ Para inscribir usuarios y asignarles roles (estudiante, profesor, etc.):
 1. **Inscribir usuarios:** Ve a **“Mis cursos”**, selecciona el curso, entra a **“Participantes”** y haz clic en **“Inscribir usuarios”**.
 2. **Asignar roles:** En la lista de participantes, haz clic en el ícono del lápiz junto al usuario para seleccionar su rol y guarda los cambios.
 
-![Inscripción de usuarios](imagenes/figura-14.png)
-![Visualización de participantes](imagenes/figura-15.png)
-![Asignación de roles](imagenes/figura-13.png)
+![Inscripción de usuarios](imagenes/imagen8.png)
+![Visualización de participantes](imagenes/imagen9.png)
+![Asignación de roles](imagenes/imagen10.png)
 
 ---
 
