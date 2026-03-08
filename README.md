@@ -67,7 +67,7 @@ networks:
   moodle-net:
 ```
 
-## 🚀 1. Levantar el entorno
+## 🚀 2. Levantar el entorno
 
 Ejecuta los siguientes comandos desde tu terminal para descargar y levantar el proyecto:
 
@@ -85,3 +85,12 @@ Iniciar los contenedores (si ya fueron creados):
 ```bash
 docker compose start
 ```
+
+## 🛠️ 3. Configuración de la Base de Datos en Moodle
+Cuando el asistente de Moodle te solicite los "Ajustes de base de datos", utiliza los siguientes valores exactos:
+
+* **host de la Base de Datos:** `moodledb`
+* **Nombre de la base de datos:** `moodlelms`
+* **Usuario de la base de datos:** `moodle-admin`
+* **Contraseña de la base de datos:** `moodle-dbpass`
+* **Prefijo de tablas:** `mdl_`
