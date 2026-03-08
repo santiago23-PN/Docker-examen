@@ -113,15 +113,13 @@ Cuando el asistente de Moodle te solicite los "Ajustes de base de datos", utiliz
 
 Para comenzar a gestionar tu plataforma, primero debes iniciar sesión con tu cuenta de administrador.
 
-1. Abre `http://localhost` en tu navegador.
-2. Haz clic en el botón **"Acceder"** (Login) en la esquina superior derecha.
-3. Ingresa tu usuario y contraseña de administrador que definiste durante la instalación.
+Ingresa tu usuario y contraseña de administrador que definiste durante la instalación.
 
-![Pantalla de inicio de sesión](imagenes/login-moodle.png)
+![Pantalla de inicio de sesión](imagenes/imagen1.png)
 
 Una vez dentro, verás el **Panel de control** (Dashboard), lo que indica que tienes acceso total para configurar cursos y usuarios.
 
-![Panel de control principal](imagenes/dashboard-moodle.png)
+![Panel de control principal](imagenes/imagen2.png)
 
 ### 1) Creación de un curso
 Para crear un curso, dirígete a la opción **“Mis cursos”** y selecciona **“Create course”**.
