@@ -77,3 +77,11 @@ cd Docker-examen
 docker compose up -d
 docker ps
 ```
+Detener los contenedores:
+```bash
+docker compose stop
+```
+Iniciar los contenedores (si ya fueron creados):
+```bash
+docker compose start
+```
