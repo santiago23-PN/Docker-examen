@@ -119,20 +119,20 @@ Ingresa tu usuario y contraseña de administrador que definiste durante la insta
 
 Una vez dentro, verás el **Panel de control** (Dashboard), lo que indica que tienes acceso total para configurar cursos y usuarios.
 
-![Panel de control principal](imagenes/imagen2.png)
+![Panel de control principal](imagenes/img2.png)
 
 ### 1) Creación de un curso
 Para crear un curso, dirígete a la opción **“Mis cursos”** y selecciona **“Create course”**.
 
-![Acceso a Mis cursos](imagenes/figura-7.png)
+![Acceso a Mis cursos](imagenes/imagen2.png)
 
 Completa el formulario con los datos necesarios (nombre, fechas, etc.) y selecciona **“Guardar cambios y mostrar”**.
 
-![Formulario de curso](imagenes/figura-8.png)
+![Formulario de curso](imagenes/imagen3.png)
 
 Al finalizar, verás la confirmación de que el curso se creó correctamente en la plataforma.
 
-![Curso creado](imagenes/figura-9.png)
+![Curso creado](imagenes/imagen4.png)
 
 ---
 
