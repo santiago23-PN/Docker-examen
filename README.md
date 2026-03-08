@@ -72,7 +72,7 @@ networks:
 Ejecuta los siguientes comandos desde tu terminal para descargar y levantar el proyecto:
 
 ```bash
-git clone [https://github.com/santiago23-PN/Docker-examen.git](https://github.com/santiago23-PN/Docker-examen.git)
+git clone https://github.com/santiago23-PN/Docker-examen.git
 cd Docker-examen
 docker compose up -d
 docker ps
